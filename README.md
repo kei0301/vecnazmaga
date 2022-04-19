@@ -27,6 +27,16 @@ Here are some ideas to get you started:
 [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/vecnazmaga#0478)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/primoz-bernard-27b292226)
 
+<Instagram link="https://www.instagram.com/nateshmbhat/" />
+<Facebook link="" newPage{false}/>
+<GooglePlus link="" newPage={false} />
+<Youtube link="" />
+<Twitch link="" />
+<Discord link="" />
+<Twitter link="" />
+<Skype link="" />
+<Yahoo link="" tooltip="My tooltip"  />
+
 <div align="right">
   <img src="https://count.getloli.com/get/@:vecnazmaga?theme=rule34" />
 </div>
