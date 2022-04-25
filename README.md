@@ -1,6 +1,27 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Vecna Zmaga</h1>
+### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Gapur Kassym</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
+<br />
+
+<a href="https://github.com/vecnazmaga/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vecnazmaga&hide=html,ruby,css,java,objective-c,python,starlark,dockerfile,shell,rust,nix" />
+</a>
+<a href="https://github.com/vecnazmaga/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=vecnazmaga&show_icons=true&count_private=true" />
+</a>
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<img align="left" height="150" src="https://api.poap.xyz/token/274326/image" />
+<img align="left" height="150" src="https://api.poap.xyz/token/569408/image" />
+<img align="left" height="150" src="https://api.poap.xyz/token/1840037/image" />
+<img align="left" height="150" src="https://user-images.githubusercontent.com/37881789/137935654-6b6f71cf-4ee6-436b-be00-8feb14a25368.png" />
+<img align="left" height="150" src="https://api.poap.xyz/token/2208560/image" />
+<br /><br /><br /><br /><br /><br />
+
+
+
 <h3 align="center">A passionate full stack developer from Croatia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vecnazmaga&label=Profile%20views&color=0e75b6&style=flat" alt="vecnazmaga" /> </p>
