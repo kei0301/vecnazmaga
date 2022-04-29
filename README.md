@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://vecnazmaga.netlify.app" target="_blank">Vecna Zmaga</a></h1>
 <br />
 <p>
